@@ -1,3 +1,3 @@
 #!/bin/bash
-NAME="World!"
+NAME="Akash!"
 echo "hi ${NAME}"
